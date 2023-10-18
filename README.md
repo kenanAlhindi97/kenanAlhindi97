@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Kenan 
-- 👀 I’m interested in automation and AI, I have experience in RPA and automated webapps testing
-- 🌱 I’m currently learning Python and how to implement my automation experience using python scripts
+- 👀 QA/Tester with a lot of focus on automated testing frameworks : Currently a playwright fan 🎭
 - 📫 How to reach me : kenan.alhindi97@outlook.com
